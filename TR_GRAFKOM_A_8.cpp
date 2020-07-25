@@ -544,7 +544,7 @@ int main(int argc, char **argv)
 	glutInitWindowSize(640, 480);
 	glutInitWindowPosition(50, 50);
 
-	glutCreateWindow("Zenith Dito R - 672018420");
+	glutCreateWindow("TR GRAFKOM A - KELOMPOK 8");
 	glutDisplayFunc(Tampilan);
 	glutKeyboardFunc(onKeyPress);
 	glutSpecialFunc(onSpecialKey);
